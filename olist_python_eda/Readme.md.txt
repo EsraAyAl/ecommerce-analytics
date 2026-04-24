@@ -1,7 +1,7 @@
 # Olist E-Commerce Python EDA
 
 ## Goal
-Explore delivery performance and customer satisfaction using the Brazilian Olist e-commerce dataset.
+Explore delivery performance and customer satisfaction using the Olist e-commerce dataset.
 
 ## Tools
 Python (pandas, numpy, matplotlib)
